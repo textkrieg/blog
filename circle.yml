@@ -1,0 +1,19 @@
+machine:
+  nodejs: 4.2.6
+
+dependencies:
+  pre:
+    - npm install
+    - cat npm-debug.log || true
+
+test:
+  override:
+    - "true"
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - git config --global user.email "kontakt@textkrieg.de"
+      - git config --global user.name "Ada Blitz"
+      - npm run deploy
