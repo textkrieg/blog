@@ -1,13 +1,9 @@
-siteTitle = "Blog by John Doe"
-siteDescr = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-siteAuthor = "John Doe"
+siteTitle = "Textkrieg"
+siteDescr = "awkwardness as a service"
+siteAuthor = "Ada Blitz"
 
-siteTelegramUrl = "#"
-siteTwitterUrl = "#"
-siteGithubUrl = "#"
-siteEmailUrl = "#"
-siteRssUrl = "#"
-siteVkUrl = "#"
+siteTwitterUrl = "https://twitter.com/bangpowwww"
+siteEmailUrl = "mail-to:kontakt@textkrieg.de"
 
 googleAnalyticsId = ""
 

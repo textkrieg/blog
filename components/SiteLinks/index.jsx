@@ -15,6 +15,27 @@ class SiteLinks extends React.Component {
               </a>
             </li>
           )}
+          <li>
+            <a href="https://www.facebook.com/adablitzkrieg">
+              <i className="fa fa-facebook" />
+            </a>
+          </li>
+          <li>
+            <a href="https://instagram.com/bangpowwww">
+              <i className="fa fa-instagram" />
+            </a>
+          </li>
+          <li>
+            <a href="https://soundcloud.com/bangpowwww">
+              <i className="fa fa-soundcloud" />
+            </a>
+          </li>
+          <li>
+            <a href="http://www.linkedin.com/in/adablitzkrieg">
+              <i className="fa fa-linkedin" />
+            </a>
+          </li>
+
           {config.siteGithubUrl && (
             <li>
               <a href={config.siteGithubUrl}>
