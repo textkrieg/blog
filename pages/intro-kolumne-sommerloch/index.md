@@ -1,0 +1,23 @@
+---
+title: "INTRO Kolumne: Sommerloch"
+date: 2013-08-27 09:53:32 +0000
+tags: 
+layout: post
+---
+<img src="/content/images/introcoverweare.jpg" alt="introcoverweare.jpg" />
+
+Wenn man nicht zufällig durch besonders unverschämtes Glück oder genetische Überbevorteilung zu den grobschlächtigen Menschen gehört, deren Haut eine Eigenschutzzeit von über fünf Sekunden in der mitteleuropäischen Sonne aufweist, sollte man in diesem Sommer entweder einen saisonalen Behindertenausweis beantragen, um in der Videothek ganz vorne parken zu dürfen, oder sich lieber gleich aufraffen eine ausgewachsene Depression zu beherbergen. Diese legitimiert es dann die Rollläden für einige Monate unten zu lassen und die sporadische Gesellschaft eines guten Pizzalieferdienstes schätzen zu lernen.
+ 
+Die größte Hürde bei diesem Unterfangen ist leider klar definiert: Auf der Suche nach probater Ablenkung wird man im Sommerloch der Unterhaltungswüste ohne langjähriges Informatikstudium und einen brauchbaren DSL Anschluss nicht besonders weit kommen. Es befinden sich zwar vierhundert Kanäle auf der 80 Zoll Menükarte, die aber von Juni bis September lediglich eine Light-Variante der dringend benötigten Zerstreuung bietet. Leichte Kost für heiße Tage nennen die in den Sendeanstalten das. Ich nenne es: Scheiße! Selig sind derzeit die, die Netflix haben. Der Rest kann zusehen, dass er nicht auf der Strecke bleibt.
+
+Drei lange Monate nichts als Scripted Reality auf RTL, ProSieben, Sat1, Kabeleins, VOX und dazwischen die ein oder andere Kochshow mit bedürftigen Prominenten und übermotivierten Kleinstadt-Floristinnen, die zu Nudelauflauf »Kasserolle« und zu Laubabfällen »Gebinde« sagen. Aber die Moderation! Ein echter Pfundskerl dieser Steffen Henssler von Topfgeldjäger, wenn es wieder heißt: Quizzen und Kochen. Immer genau den richtigen Spruch auf den Lippen. Frech, aber dennoch absolut liebenswert. Da soll noch einmal jemand sagen, die »Jugend« von heute könnte nicht mehr kochen!
+ 
+Neben einigen von der Redaktion selbst verfassten »Zuschauerbriefen«, findet sich immer die ein oder andere freie Minute, in der eine ältere Damen durch den adretten Steffen konzeptunterwürfig angeflirtet wird oder die Kamera sich auf eine rasante Achterbahnfahrt durch das beige Beinkleidlabyrinth des Studiopublikums begibt. Dazwischen serviert man der Zielgruppe (Verlierertypen und/oder Menschen mit Hauttyp I) ein Rätsel in unverständlicher Mundart aus Regionen, in denen man als Einwohner mit Migrationshintergrund in der Regel nichts zu lachen hat, und zeigt zwei bis drei große Brocken Fleisch, die man allerdings nicht brät, sondern lieber farblos kocht.
+ 
+Das Fernsehen lehrt uns also derzeit Eines: Das Angebot bestimmt immer das Angebot. Marktforschung? Unsinn! Sollen die Scheißleute doch kaputt gehen mit ihrer Kacklaune und ihren verräterisch weißen Unterarmen! Wenn die nicht interessiert wie man niedersäschische Wurst herstellt oder einen Lavendelballen mit Eigenhaar stabilisiert, dann haben sie auch von September bis Juni keinen Anspruch auf den Markus und die anderen Zugpferde der Sender. Wer sich also im Sommer frecherweise erdreistet ein Unterhaltungsprogramm zu erwarten, während der Lanz, die Maischberger und Ulrich Meyer verdient auf Sylt in einem unförmigen Sitzsack im abgetrennten Bereich eines netten Fischlokals rumaalen und Detox-Shakes balancieren, ist doch bestimmt nur ganz besonders egoistisch, oder?
+ 
+Statt also mit dem erweiterten Freundeskreis ein kühles Biermischgetränk in der untergehenden Sonne am Schlachtensee (»Auf die Freundschaft!«) zu genießen und dabei zuzusehen wie irgendein Lars oder Hannes mit Indiefrisur ein kleines Feuer anzündet, verlangen wir aus eigennützigen Gründen dem Fernsehen ein Rezept gegen Langeweile ab. Vermessen! Statt uns dabei für Instagram fotografieren zu lassen wie wir an einem am Baum befestigten Seil in den See segeln, ohne dabei unangenehm durch nachschwabbelnde Arme aufzufallen, liegen wir zerstört auf dem Sofa und tragen das helle Fleisch an uns, das die anderen gerade irgendwo grillen.
+ 
+Wer noch nicht ernüchtert genug ist, der kann in einem alten Sakko Presseclub schauen und dabei mit einer Schöpfkelle Sauerampfersuppe direkt aus dem Topf essen. Aber Kopf hoch! Nur noch zwei Wochen Langeweile bis die nächste Staffel Breaking Bad beginnt. Bis dahin schaffen wir locker noch vierzehn Pizzen mit Sauce Hollandaise und stämmen noch fünf Heulkrämpfe bevor endlich wieder für junge Leute gekocht wird. Bloß ohne Steffen Henssler. Und auch keine Waldpilzcremesuppe.
+
+Mehr Ada und meine monatliche Kolumne natürlich auf [INTRO](http://www.intro.de/autor/Ada%20Blitzkrieg).
