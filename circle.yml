@@ -16,4 +16,4 @@ deployment:
     commands:
       - git config --global user.email "kontakt@textkrieg.de"
       - git config --global user.name "Ada Blitz"
-      - npm run deploy
+      - GIT_SSH_COMMAND="ssh -i $HOME/.ssh/id_6dd138076ddd11dfbd2c8fb70bd6fe14" npm run deploy
